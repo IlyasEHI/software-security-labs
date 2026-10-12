@@ -11,6 +11,7 @@ Français : [README.fr.md](README.fr.md).
 | Lab | Topic | Write-up |
 |-----|-------|----------|
 | 1 | Buffer overflow exploitation on Linux and Windows: local-variable overwrite, ret2win, ret2shellcode with ASLR bypass, and a heap overflow | [EN](lab1-buffer-overflow/README.md) · [FR](lab1-buffer-overflow/README.fr.md) |
+| 2 | Web application exploitation: LFI to RCE, insecure upload bypasses, CAPTCHA brute force, SQL injection, XSS cookie theft, command injection, and SSH brute force | [EN](lab2-web-exploitation/README.md) · [FR](lab2-web-exploitation/README.fr.md) |
 
 More will be added as I finish them.
 
@@ -24,6 +25,10 @@ software-security-labs/
     README.md               English write-up
     README.fr.md            French write-up
     img/                     screenshots of the exploitation steps
+  lab2-web-exploitation/
+    README.md
+    README.fr.md
+    img/
 ```
 
 ## Scope and ethics

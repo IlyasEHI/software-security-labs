@@ -11,6 +11,7 @@ English: [README.md](README.md).
 | Labo | Sujet | Write-up |
 |------|-------|----------|
 | 1 | Exploitation de buffer overflow sur Linux et Windows : écrasement de variable locale, ret2win, ret2shellcode avec contournement d'ASLR, et un heap overflow | [EN](lab1-buffer-overflow/README.md) · [FR](lab1-buffer-overflow/README.fr.md) |
+| 2 | Exploitation d'applications web : LFI vers RCE, contournements d'upload, brute force CAPTCHA, injection SQL, vol de cookie XSS, injection de commande, et brute force SSH | [EN](lab2-web-exploitation/README.md) · [FR](lab2-web-exploitation/README.fr.md) |
 
 D'autres s'ajouteront au fur et à mesure.
 
@@ -24,6 +25,10 @@ software-security-labs/
     README.md               write-up anglais
     README.fr.md            write-up français
     img/                     captures des étapes d'exploitation
+  lab2-web-exploitation/
+    README.md
+    README.fr.md
+    img/
 ```
 
 ## Périmètre et éthique
